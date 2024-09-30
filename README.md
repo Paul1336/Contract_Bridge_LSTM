@@ -28,4 +28,4 @@ This repository is for demo usage. Follow the steps below to train your own mode
 ## Pretrained Model
 
 Here is an example pretrained model:  
-`083003_finalmodel.pgz`
+`[083003_finalmodel.pgz]([URL](https://drive.google.com/file/d/10b3I7nwAya-j8Xp49kr_BF3MtRQr_c1U/view?usp=drive_link))`
