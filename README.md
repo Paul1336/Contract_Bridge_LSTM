@@ -29,3 +29,4 @@ This repository is for demo usage. Follow the steps below to train your own mode
 
 Here is an example pretrained model:  
 [083003_finalmodel.pgz](https://drive.google.com/file/d/10b3I7nwAya-j8Xp49kr_BF3MtRQr_c1U/view?usp=drive_link)
+The sample prediction is a demo for using the Pretrained Model to predict the biddings
